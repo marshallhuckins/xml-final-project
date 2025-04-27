@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT storage (info+)>
+<!ELEMENT info (item,type,section,shelf,intoInventory,listedDate)>
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT section (#PCDATA)>
+<!ELEMENT shelf (#PCDATA)>
+<!ELEMENT intoInventory (#PCDATA)>
+<!ELEMENT listedDate (#PCDATA)>

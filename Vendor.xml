@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="vendor.xsl"?>
+<!DOCTYPE supplier SYSTEM "vendor.dtd">
+<supplier>
+    <vendor>
+        <company>Walmart</company>
+        <address>3201 Manawa Centre Dr</address>
+        <web>Walmart</web>
+        <phone>712-366-3326</phone>
+        <venId>WAL</venId>
+    </vendor>
+    <vendor>
+        <company>Amazon</company>
+        <address></address>
+        <web>Amazon</web>
+        <phone></phone>
+        <venId>AMZ</venId>
+    </vendor>
+    <vendor>
+        <company>Target</company>
+        <address>3804 Metro Dr</address>
+        <web>Target</web>
+        <phone>712-309-3380</phone>
+        <venId>TAR</venId>
+    </vendor>
+  
+</supplier>

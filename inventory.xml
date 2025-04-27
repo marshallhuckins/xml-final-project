@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="inventory.xsl"?>
+        
+<inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="inventory.xsd">
+    
+
+    <item>
+        <title>Harry Potter and the Sorcerer's Stone</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <bookPub>Scholastic Press</bookPub>
+        <isbn10>0590353403</isbn10>
+        <isbn13>9780590353403</isbn13>
+        <vendor>Walmart</vendor>
+        <image>HP1.jpeg</image>        
+    </item>
+    <item>
+        <title>Harry Potter and the Chamber of Secrets</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <bookPub>Scholastic Press</bookPub>
+        <isbn10>0439064866</isbn10>
+        <isbn13>9780439064866</isbn13>
+        <vendor>Target</vendor>
+        <image>HP2.jpeg</image>
+    </item>
+    <item>
+        <title>Harry Potter and the Prisoner of Azkaban</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <bookPub>Scholastic Press</bookPub>
+        <isbn10>0439136358</isbn10>
+        <isbn13>9780439136358</isbn13>
+        <vendor>Amazon</vendor>
+        <image>HP3.jpeg</image>
+    </item>
+    <item>
+        <title>Harry Potter and the Goblet of Fire</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <bookPub>Scholastic Press</bookPub>
+        <isbn10>0439139595</isbn10>
+        <isbn13>9780439139595</isbn13>
+        <vendor>Barnes and Noble</vendor>
+        <image>HP4.jpeg</image>
+    </item>
+    <item>
+        <title>Harry Potter and the Order of the Phoenix</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <bookPub>Scholastic Press</bookPub>
+        <isbn10>0439358064</isbn10>
+        <isbn13>9780439358064</isbn13>
+        <vendor>City Limits</vendor>
+        <image>HP5.jpeg</image>
+    </item>
+</inventory>
+
+

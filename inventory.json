@@ -1,0 +1,58 @@
+{
+    "inventory": {
+        "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "xsi:noNamespaceSchemaLocation": "inventory.xsd",
+        "item": [
+            {
+                "title": "Harry Potter and the Sorcerer's Stone",
+                "author": "J.K. Rowling",
+                "genre": "Fantasy",
+                "bookPub": "Scholastic Press",
+                "isbn10": "0590353403",
+                "isbn13": 9780590353403,
+                "vendor": "Walmart",
+                "image": "HP1.jpeg"
+            },
+            {
+                "title": "Harry Potter and the Chamber of Secrets",
+                "author": "J.K. Rowling",
+                "genre": "Fantasy",
+                "bookPub": "Scholastic Press",
+                "isbn10": "0439064866",
+                "isbn13": 9780439064866,
+                "vendor": "Target",
+                "image": "HP2.jpeg"
+            },
+            {
+                "title": "Harry Potter and the Prisoner of Azkaban",
+                "author": "J.K. Rowling",
+                "genre": "Fantasy",
+                "bookPub": "Scholastic Press",
+                "isbn10": "0439136358",
+                "isbn13": 9780439136358,
+                "vendor": "Amazon",
+                "image": "HP3.jpeg"
+            },
+            {
+                "title": "Harry Potter and the Goblet of Fire",
+                "author": "J.K. Rowling",
+                "genre": "Fantasy",
+                "bookPub": "Scholastic Press",
+                "isbn10": "0439139595",
+                "isbn13": 9780439139595,
+                "vendor": "Barnes and Noble",
+                "image": "HP4.jpeg"
+            },
+            {
+                "title": "Harry Potter and the Order of the Phoenix",
+                "author": "J.K. Rowling",
+                "genre": "Fantasy",
+                "bookPub": "Scholastic Press",
+                "isbn10": "0439358064",
+                "isbn13": 9780439358064,
+                "vendor": "City Limits",
+                "image": "HP5.jpeg"
+            }
+        ]
+    }
+}

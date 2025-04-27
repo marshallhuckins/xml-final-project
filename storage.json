@@ -1,0 +1,46 @@
+{
+    "storage": {
+        "info": [
+            {
+                "item": "Harry Potter and the Sorcerer's Stone",
+                "type": "Shelf",
+                "section": "A",
+                "shelf": 3,
+                "intoInventory": "04/05/22",
+                "listedDate": "04/06/22"
+            },
+            {
+                "item": "Harry Potter and the Chamber of Secrets",
+                "type": "Tote",
+                "section": "B",
+                "shelf": 4,
+                "intoInventory": "04/05/22",
+                "listedDate": "04/06/22"
+            },
+            {
+                "item": "Harry Potter and the Prisoner of Askaban",
+                "type": "Shelf",
+                "section": "D",
+                "shelf": 1,
+                "intoInventory": "04/05/22",
+                "listedDate": "04/06/22"
+            },
+            {
+                "item": "Harry Potter and the Goblet of Fire",
+                "type": "Shelf",
+                "section": "C",
+                "shelf": 6,
+                "intoInventory": "04/05/22",
+                "listedDate": "04/06/22"
+            },
+            {
+                "item": "Harry Potter and the Order of the Phoenix",
+                "type": "Shelf",
+                "section": "E",
+                "shelf": 2,
+                "intoInventory": "04/05/22",
+                "listedDate": "04/06/22"
+            }
+        ]
+    }
+}

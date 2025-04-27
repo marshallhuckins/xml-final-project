@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT supplier (vendor+)>
+<!ELEMENT vendor (company,address,web,phone,venId)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT web (#PCDATA)>
+<!ELEMENT phone (#PCDATA) >
+<!ELEMENT venId (#PCDATA) >

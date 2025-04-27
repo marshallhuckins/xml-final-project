@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="needsPurchased.xsl"?>
+<needsPurchased xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="needsPurchased.xsd">
+    <item>
+        <title>Harry Potter and the Half-Blood Prince</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <bookPub>Scholastic Press</bookPub>
+        <isbn10>0439784542</isbn10>
+        <isbn13>9780439784542</isbn13>
+    </item>
+    <item>
+        <title>Harry Potter and the Deathly Hallows</title>
+        <author>J.K. Rowling</author>
+        <genre>Fantasy</genre>
+        <bookPub>Scholastic Press</bookPub>
+        <isbn10>1408855959</isbn10>
+        <isbn13>9781408855959</isbn13>
+    </item>
+</needsPurchased>

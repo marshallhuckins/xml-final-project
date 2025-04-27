@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="storage.xsl"?>
+<!DOCTYPE storage SYSTEM "storage.dtd">
+<storage>
+    <info>
+        <item>Harry Potter and the Sorcerer's Stone</item>
+        <type>Shelf</type>
+        <section>A</section>
+        <shelf>3</shelf>
+        <intoInventory>04/05/22</intoInventory>
+        <listedDate>04/06/22</listedDate>
+    </info>
+    <info>
+        <item>Harry Potter and the Chamber of Secrets</item>
+        <type>Tote</type>
+        <section>B</section>
+        <shelf>4</shelf>
+        <intoInventory>04/05/22</intoInventory>
+        <listedDate>04/06/22</listedDate>
+    </info>
+    <info>
+        <item>Harry Potter and the Prisoner of Askaban</item>
+        <type>Shelf</type>
+        <section>D</section>
+        <shelf>1</shelf>
+        <intoInventory>04/05/22</intoInventory>
+        <listedDate>04/06/22</listedDate>
+    </info>
+    <info>
+        <item>Harry Potter and the Goblet of Fire</item>
+        <type>Shelf</type>
+        <section>C</section>
+        <shelf>6</shelf>
+        <intoInventory>04/05/22</intoInventory>
+        <listedDate>04/06/22</listedDate>
+    </info>
+    <info>
+        <item>Harry Potter and the Order of the Phoenix</item>
+        <type>Shelf</type>
+        <section>E</section>
+        <shelf>2</shelf>
+        <intoInventory>04/05/22</intoInventory>
+        <listedDate>04/06/22</listedDate>
+    </info>
+</storage>

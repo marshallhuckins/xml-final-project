@@ -1,0 +1,27 @@
+{
+    "supplier": {
+        "vendor": [
+            {
+                "company": "Walmart",
+                "address": "3201 Manawa Centre Dr",
+                "web": "Walmart",
+                "phone": "712-366-3326",
+                "venId": "WAL"
+            },
+            {
+                "company": "Amazon",
+                "address": {},
+                "web": "Amazon",
+                "phone": {},
+                "venId": "AMZ"
+            },
+            {
+                "company": "Target",
+                "address": "3804 Metro Dr",
+                "web": "Target",
+                "phone": "712-309-3380",
+                "venId": "TAR"
+            }
+        ]
+    }
+}

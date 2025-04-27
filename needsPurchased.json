@@ -1,0 +1,24 @@
+{
+    "needsPurchased": {
+        "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "xsi:noNamespaceSchemaLocation": "needsPurchased.xsd",
+        "item": [
+            {
+                "title": "Harry Potter and the Half-Blood Prince",
+                "author": "J.K. Rowling",
+                "genre": "Fantasy",
+                "bookPub": "Scholastic Press",
+                "isbn10": "0439784542",
+                "isbn13": 9780439784542
+            },
+            {
+                "title": "Harry Potter and the Deathly Hallows",
+                "author": "J.K. Rowling",
+                "genre": "Fantasy",
+                "bookPub": "Scholastic Press",
+                "isbn10": 1408855959,
+                "isbn13": 9781408855959
+            }
+        ]
+    }
+}
